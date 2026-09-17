@@ -7,7 +7,7 @@
 
 Your location gives you a particularly convenient base for King Street, the City Market, Marion Square and the historic district. Many useful stops are less than ten minutes away; even the Battery is a reasonable outing on foot.
 
-This is a detailed visitor guide to **97 places**, including restaurants, coffee and desserts, bars, museums, historic sites, parks, shops, entertainment and practical services. It is broad coverage of the walkable visitor area, not a claim to list every business, private property or temporary event. One restaurant is explicitly marked **reopening to confirm**. Some entries share a building, such as the bars and café at Hotel Bennett.
+This is a detailed visitor guide to **99 places**, including restaurants, coffee and desserts, bars, museums, historic sites, parks, shops, entertainment and practical services. It is broad coverage of the walkable visitor area, not a claim to list every business, private property or temporary event. One restaurant is explicitly marked **reopening to confirm**. Some entries share a building, such as the bars and café at Hotel Bennett.
 
 Event listings refer to the published 2026 calendars. Check individual dates and current availability before booking.
 
@@ -78,7 +78,7 @@ For Halloween atmosphere, a **downtown ghost walking tour** is a practical optio
 
 ## A realistic five-day outline
 
-This is a flexible suggestion, not an attempt to fit all 97 stops into four nights. Pick **one major paid attraction plus one neighborhood walk per full day**. Daily mileages below are rough activity-planning ranges including out-and-back movement, not measured itineraries; museums, detours and shopping can add more steps.
+This is a flexible suggestion, not an attempt to fit all 99 stops into four nights. Pick **one major paid attraction plus one neighborhood walk per full day**. Daily mileages below are rough activity-planning ranges including out-and-back movement, not measured itineraries; museums, detours and shopping can add more steps.
 
 ### Day 1 — settle in and orient yourselves
 
@@ -611,6 +611,17 @@ Biscuit breakfast or a snack while heading up King Street. This listing is for t
 
 [Source / current details](https://calliesbiscuits.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Callie's%20Hot%20Little%20Biscuit%20%E2%80%94%20King%20Street%2C%20476%20King%20Street%2C%20Charleston%20SC&travelmode=walking)
 
+### 99. Cooper Coffee & Wine
+
+**176 Concord Street, Charleston, SC** · **13–19 min walk** · about **0.69 miles one way**  
+**Budget:** $–$$ · **Allow at the stop:** 30–75 min
+
+A sunlit waterfront café beside The Cooper Marina, serving coffee and breakfast before shifting to lunch; evening wine service is described as coming soon.
+
+**Plan:** Published breakfast hours are 7–11am and lunch is 11am–4pm. Confirm whether evening wine service has begun before planning a later visit.
+
+[Source / current details](https://www.thecooper.com/dining/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Cooper%20Coffee%20%26%20Wine%2C%20176%20Concord%20Street%2C%20Charleston%20SC&travelmode=walking)
+
 ### 95. Mercantile & Mash
 
 **701 East Bay Street, Charleston, SC** · **23–30 min walk** · about **1.15 miles one way**  
@@ -712,6 +723,17 @@ A pub and courtyard option on Broad Street, useful for a casual break on the way
 **Plan:** Check food-service hours separately from bar closing time.
 
 [Source / current details](https://blindtigerchs.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Blind%20Tiger%20Pub%2C%2036%20Broad%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 98. Vintage Lounge
+
+**545 King Street, Charleston, SC** · **14–20 min walk** · about **0.74 miles one way**  
+**Budget:** $$–$$$ · **Allow at the stop:** 60–120 min
+
+A relaxed Upper King wine bar focused on cocktails, wines by the glass, local beer, and a changing cheese and charcuterie selection.
+
+**Plan:** Published hours are Wednesday–Sunday from 5pm; closed Monday and Tuesday. Check the current beverage and bottle lists before going.
+
+[Source / current details](https://www.vintagechs.com/menu) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Vintage%20Lounge%2C%20545%20King%20Street%2C%20Charleston%20SC&travelmode=walking)
 
 ### 39. The Rooftop at The Vendue
 
@@ -1345,8 +1367,10 @@ The ranges overlap at the boundaries. Groups use the upper end of each estimate 
 | 16 | The Darling Oyster Bar | 13–18 min | 0.67 |
 | 13 | Fleet Landing | 13–19 min | 0.69 |
 | 56 | Old Slave Mart Museum | 13–19 min | 0.69 |
+| 99 | Cooper Coffee & Wine | 13–19 min | 0.69 |
 | 50 | Aiken-Rhett House | 14–19 min | 0.71 |
 | 42 | Blind Tiger Pub | 14–20 min | 0.72 |
+| 98 | Vintage Lounge | 14–20 min | 0.74 |
 | 39 | The Rooftop at The Vendue | 15–20 min | 0.75 |
 | 63 | Nathaniel Russell House | 14–20 min | 0.75 |
 | 17 | Indaco | 15–20 min | 0.76 |

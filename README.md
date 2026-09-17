@@ -2,7 +2,7 @@
 
 Prepared for **ncmsec** and **forensiclawoffice.com**. This package is ready to publish; its presence on this computer does not mean GitHub or DNS has been configured.
 
-The map contains 97 places, including **Church and Union Charleston, stop 97**. The guide includes walking estimates, venue links, an event schedule, suggested days and walking loops. The site is responsive and needs no build service, database, API key or paid hosting plan.
+The map contains 99 places, including **Church and Union Charleston (97)**, **Vintage Lounge (98)**, and **Cooper Coffee & Wine (99)**. The guide includes walking estimates, venue links, an event schedule, suggested days and walking loops. The site is responsive and needs no build service, database, API key or paid hosting plan.
 
 ## Publish
 
@@ -36,7 +36,7 @@ Replace conflicting website records for @ or www; preserve unrelated email MX/TX
 
 ## Files and updates
 
-- **index.html** — map homepage; embedded map libraries, street geometry and 97 place records.
+- **index.html** — map homepage; embedded map libraries, street geometry and 99 place records.
 - **charleston-walking-map.html** — identical map under its downloadable filename.
 - **guide.html** — readable guide with jump links and mobile table scrolling.
 - **charleston-walking-guide.md** — complete original Markdown guide.

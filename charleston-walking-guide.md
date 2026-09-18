@@ -7,7 +7,7 @@
 
 Your location gives you a particularly convenient base for King Street, the City Market, Marion Square and the historic district. Many useful stops are less than ten minutes away; even the Battery is a reasonable outing on foot.
 
-This is a detailed visitor guide to **99 places**, including restaurants, coffee and desserts, bars, museums, historic sites, parks, shops, entertainment and practical services. It is broad coverage of the walkable visitor area, not a claim to list every business, private property or temporary event. One restaurant is explicitly marked **reopening to confirm**. Some entries share a building, such as the bars and café at Hotel Bennett.
+This is a detailed visitor guide to **121 places**, including restaurants, coffee and desserts, bars, museums, historic sites, parks, shops, entertainment and practical services. It is broad coverage of the walkable visitor area, not a claim to list every business, private property or temporary event. One restaurant is explicitly marked **reopening to confirm**. Some entries share a building, such as the bars and café at Hotel Bennett.
 
 Event listings refer to the published 2026 calendars. Check individual dates and current availability before booking.
 
@@ -21,7 +21,7 @@ The map's bundled street lines, parks, pins and details work offline. The option
 
 ## Understanding walking times and budgets
 
-All listed walking times are **one way from your Airbnb**, without sightseeing, shopping or waiting in line. Most stops are roughly 0.1–1.1 miles away. Xiao Bao Biscuit and Leon's are in the longer-walk group; Mercantile & Mash is near the outer edge of the main range.
+All listed walking times are **one way from your Airbnb**, without sightseeing, shopping or waiting in line. Most stops are roughly 0.1–1.1 miles away. Xiao Bao Biscuit and Leon's are in the longer-walk group; Mercantile & Mash is near the outer edge of the main range. Lewis Barbecue is included as a destination worth knowing about, but it is clearly labeled as a rideshare or roughly 40–55 minute walk each way.
 
 Distances are planning estimates calculated from approximate address coordinates and an OpenStreetMap street network, **not live navigation or verified accessible routes**. Times use approximately 3 mph with an allowance for a slower pace and crossings. Address interpolation can place a pin along the frontage instead of at the entrance. Add time for traffic signals, crowds, cobbles, stairs and detours; double the walk for a return trip. Open the individual walking-direction link for the current pedestrian route. Treat the far end of each time range as the better planning number.
 
@@ -35,12 +35,18 @@ Distances are planning estimates calculated from approximate address coordinates
 |---|---|---|
 | Almost no walk | **01 Muse**, **88 Christophe Chocolate**, **78 Theatre 99** | Dinner next door, sweets on your street, or nearby evening entertainment. |
 | A quick breakfast close to home | **24 Caviar & Bananas**, **25 The Rise**, **89 Handy & Hot** | Convenient before timed tickets or departure. |
+| Specialty coffee or a café morning | **102 Second State**, **103 Babas on Wentworth**, **104 Clerks**, **100 Holey City Bagels** | Four distinct choices: coffee-first, European all-day café, full breakfast café, or bagels and espresso. |
 | A major dinner | **02 FIG**, **10 Husk**, **15 The Ordinary**, **14 Halls** | Choose one or two and build around reservations. |
+| Italian café or special dinner | **101 Sorelle** | Use the daytime mercato casually or reserve the dining room for a polished Southern Italian meal. |
+| Barbecue | **108 Poogan's Smokehouse**, **109 Queology**, **110 Lewis Barbecue** | Full-service French Quarter barbecue, casual City Market barbecue, or destination brisket outside the comfortable walking core. |
+| Sushi | **18 O-Ku**, **111 167 Sushi Bar**, **112 Shiki**, **113 MESU** | Stylish Upper King, intimate seafood-driven sushi, traditional neighborhood sushi, or lively fusion. |
 | Seafood without a formal evening | **05 167 Raw**, **03 Delaney**, **13 Fleet Landing** | Different settings: lively raw bar, historic house, harborfront. |
 | A lighter or quicker meal | **07 Basic Kitchen**, **91 Verde**, **92 CO** | Close to home and easy to fit around sightseeing. |
 | Classic outdoor Charleston | **43 City Market → 54 Waterfront Park → 55 Rainbow Row → 66 Battery / 67 White Point Garden** | The most recognizable sights in a coherent southbound walk. |
 | Substantial history | **51 IAAM**, **56 Old Slave Mart**, **50 Aiken-Rhett** | Different perspectives and scales; allow time to absorb the material. |
 | Art or a rainy afternoon | **47 Gibbes**, **48 Charleston Museum**, **93 SCHS Museum** | Indoor options in the central walking area. |
+| Another rainy-day activity | **114 Halsey Institute**, **115 Escape in 60** | Free contemporary art or a bookable group escape room. |
+| Harbor time | **116 Harbor Tours**, **117 Water Taxi**, **118 Gadsdenboro Park** | A narrated cruise, a flexible sightseeing ride, or a waterfront-area park before boarding. |
 | A rooftop drink | **34 The Watch**, **35 Citrus Club**, **38 Fiat Lux**, **39 The Vendue** | The Watch is particularly close; Citrus Club is 21+. |
 | Children | **52 Aquarium**, **82 Children's Museum**, **54 Waterfront Park** | Check age suitability and ticket rules. |
 | A local gift | **43 City Market**, **74 Candlefish**, **75 Preservation Society Shop**, **88 Christophe** | Crafts, candles, books and chocolates. |
@@ -74,16 +80,18 @@ For Halloween atmosphere, a **downtown ghost walking tour** is a practical optio
 4. **Peninsula Grill is conditional.** Its official page currently says it is closed for renovation and expects to reopen in fall. There is no specific reopening date on the page checked. Keep another dinner option until your dates are explicitly bookable and the restaurant confirms service. [Current notice](https://peninsulagrill.com/)
 5. **Book tours and performances before arranging meals around them.** Add a buffer of at least 30 minutes between finishing dinner and a seated show; more if you dislike rushing.
 6. **Sunday requires a little care.** IAAM's detailed visitor page says noon opening from July 2026; the Children's Museum also opens at noon, Blue Bicycle at 1pm, and Harken closes at 1pm. The SCHS Museum closes Sundays. Check the actual booking calendars. The detailed place entries below link the sources.
-7. **If you want a Candlefish workshop, do it before your last day.** Candles normally need next-day pickup. [Workshop information](https://www.candlefish.com/)
+7. **Sorelle dining-room reservations open 60 days ahead.** The daytime mercato, bar and lounge provide more flexible first-come alternatives. [Sorelle information](https://www.sorellecharleston.com/about/)
+8. **Reserve sushi if it matters.** 167 Sushi Bar and Shiki are small; 167 accepts reservations and walk-ins, while Shiki publishes separate lunch and dinner services and closes Sunday and Monday.
+9. **If you want a Candlefish workshop, do it before your last day.** Candles normally need next-day pickup. [Workshop information](https://www.candlefish.com/)
 
 ## A realistic five-day outline
 
-This is a flexible suggestion, not an attempt to fit all 99 stops into four nights. Pick **one major paid attraction plus one neighborhood walk per full day**. Daily mileages below are rough activity-planning ranges including out-and-back movement, not measured itineraries; museums, detours and shopping can add more steps.
+This is a flexible suggestion, not an attempt to fit all 121 stops into four nights. Pick **one major paid attraction plus one neighborhood walk per full day**. Daily mileages below are rough activity-planning ranges including out-and-back movement, not measured itineraries; museums, detours and shopping can add more steps.
 
 ### Day 1 — settle in and orient yourselves
 
 - Drop bags, then do a light loop through **King Street, Hasell Street and the City Market**. Make the **Harris Teeter** or **CVS** run now if needed.
-- Coffee or a snack at **The Rise**, **Caviar & Bananas**, **Handy & Hot** or **Christophe**.
+- Coffee or a snack at **The Rise**, **Caviar & Bananas**, **Handy & Hot**, **Christophe**, **Babas on Wentworth** or **Clerks**.
 - Dinner at **Muse** is the simplest arrival-night option. **FIG** is nearby if you secure it and your arrival is dependable.
 - Optional **The Watch** rooftop or **Theatre 99**, subject to its calendar.
 - Plan roughly **1–2 miles** of casual walking. If you arrive late, keep this to dinner and one short stroll.
@@ -92,7 +100,7 @@ This is a flexible suggestion, not an attempt to fit all 99 stops into four nigh
 
 - Breakfast at **Harken** or **Millers All Day**, then choose **Old Slave Mart**, **Gibbes** or **Old Exchange** rather than trying to do all three in one morning.
 - Continue through **Church Street / Chalmers Street**, **Waterfront Park**, **Rainbow Row**, **East Battery** and **White Point Garden**. Return via **Meeting Street** and, if desired, **Nathaniel Russell House**.
-- Lunch at **Fleet Landing**, **S.N.O.B.**, **Poogan's Porch** or **82 Queen**, depending on where you stop.
+- Lunch at **Fleet Landing**, **S.N.O.B.**, **Poogan's Smokehouse**, **Queology**, **Poogan's Porch** or **82 Queen**, depending on where you stop.
 - Return home to rest. If attending **The Witching Hour at 7:30**, eat early near the Gaillard—**Delaney** is convenient—and leave a buffer.
 - Plan roughly **3–4½ miles** across the day. Shorten the outing by turning back at Rainbow Row if needed.
 
@@ -100,14 +108,14 @@ This is a flexible suggestion, not an attempt to fit all 99 stops into four nigh
 
 - Choose **IAAM** for a substantial history morning, or make the Preservation Society's **South of Broad house-and-garden tour** the main activity after confirming its time.
 - If choosing IAAM, add **Liberty Square** and harbor views. Do the Aquarium on another day if you want an unhurried museum visit.
-- Later, browse **lower King Street**, **Buxton Books**, **Croghan's**, **Candlefish** or the **Preservation Society Shop**.
+- Later, browse **lower King Street**, **Buxton Books**, **Croghan's**, **Candlefish** or the **Preservation Society Shop**. The free **Halsey Institute** is a useful alternative if its current exhibition is open.
 - Dinner at your chosen reservation; **David Sedaris at 7:30** is an optional evening anchor. Otherwise consider the **City Market Night Market** or a downtown ghost walk.
 - Plan roughly **2–4 miles**, depending on the tour and shopping detours.
 
 ### Day 4 — market morning and an evening out
 
 - Start with **Marion Square Farmers Market**, preferably earlier in its 8–2 window. Pair it with **Kudu** or **La Pâtisserie**.
-- Choose **The Charleston Museum + Joseph Manigault House**, **Aiken-Rhett House**, or a **Candlefish workshop**. With children, consider the **Children's Museum** or the **Miss Nelson Is Missing!** performance once you confirm the showtime.
+- Choose **The Charleston Museum + Joseph Manigault House**, **Aiken-Rhett House**, a **Candlefish workshop**, or a booked **harbor tour**. With children, consider the **Children's Museum**, **Gadsdenboro Park** or the **Miss Nelson Is Missing!** performance once you confirm the showtime.
 - Keep a break at the Airbnb before evening. Halloween falls on Saturday, so a dinner reservation or an early walk-in is useful.
 - Evening options: a booked **ghost walk**, the **Night Market** if operating, or Upper King drinks. Do not assume every bar is holding a ticketed Halloween party or that unannounced parties are confirmed.
 - Plan roughly **2–3½ miles** before any long evening walk.
@@ -115,7 +123,7 @@ This is a flexible suggestion, not an attempt to fit all 99 stops into four nigh
 ### Day 5 — brunch and a manageable finish
 
 - Check the clock change, checkout time and luggage plan first.
-- Easy brunch choices include **Church and Union** (Friday–Sunday brunch), **Poogan's Porch**, **Millers**, or **Halls** with a reservation. **Harken** works only before its early close.
+- Easy brunch choices include **Sorelle Mercato**, **Holey City Bagels**, **Poogan's Porch**, **Millers**, or **Halls** with a reservation. **Harken** works only before its early close.
 - If leaving early, do **Cistern Yard** and a last King Street stroll. If staying later, **Gibbes**, the **Aquarium**, or **IAAM from noon** can fill the afternoon, subject to current hours.
 - The **5pm Philip Glass program** only works if your onward travel leaves room for its full runtime and the journey afterward.
 - Plan roughly **½–2 miles** for a departure morning, more for an afternoon attraction. Do not carry luggage around the historic walking loops if storage can be arranged.
@@ -134,6 +142,10 @@ Use the companion map to see the stops together. The Google links after the loop
 
 **E. Upper King food and shopping — allow 2–4 hours, longer with dinner.** Home → Blue Bicycle Books (**72**) → The Ordinary (**15**) → Chubby Fish (**21**) → home. Roughly 2–3 miles. These are area anchors, not a recommendation to eat two dinners. Leon's is a further northern extension; Xiao Bao is a western detour.
 
+**F. Coffee and Cannonborough — allow 2–3 hours.** Home → Halsey Institute (**114**) → Second State (**102**) → Cannon Park (**120**) → Holey City Bagels (**100**) → home. Treat the food stops as choices rather than required consecutive meals. Confirm the Halsey's exhibition schedule and Holey City's early closing time.
+
+**G. Harbor outing — allow 2–4 hours plus the boat schedule.** Home → Gadsdenboro Park (**118**) → Charleston Harbor Tours (**116**) or the Water Taxi (**117**) → home. Pick one boat experience, follow the exact boarding instructions and leave time to arrive before departure.
+
 ### Open the walking loops in Google Maps
 
 - [A · Market & harbor](https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&waypoints=188%20Meeting%20Street%2C%20Charleston%20SC%7C1%20Vendue%20Range%2C%20Charleston%20SC%7C83%20East%20Bay%20Street%2C%20Charleston%20SC)
@@ -141,6 +153,8 @@ Use the companion map to see the stops together. The Google links after the loop
 - [C · Northern museums](https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&waypoints=329%20Meeting%20Street%2C%20Charleston%20SC%7C360%20Meeting%20Street%2C%20Charleston%20SC%7C48%20Elizabeth%20Street%2C%20Charleston%20SC)
 - [D · Campus & Colonial Lake](https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&waypoints=66%20George%20Street%2C%20Charleston%20SC%7C46%20Ashley%20Avenue%2C%20Charleston%20SC%7C120%20Broad%20Street%2C%20Charleston%20SC)
 - [E · Upper King](https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&waypoints=420%20King%20Street%2C%20Charleston%20SC%7C544%20King%20Street%2C%20Charleston%20SC%7C252%20Coming%20Street%2C%20Charleston%20SC)
+- [F · Coffee & Cannonborough](https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&waypoints=161%20Calhoun%20Street%2C%20Charleston%20SC%7C70.5%20Beaufain%20Street%2C%20Charleston%20SC%7C131%20Rutledge%20Avenue%2C%20Charleston%20SC%7C43%20Cannon%20Street%2C%20Charleston%20SC)
+- [G · Harbor outing](https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&waypoints=309%20Concord%20Street%2C%20Charleston%20SC%7C360%20Concord%20Street%2C%20Charleston%20SC%7C10%20Wharfside%20Street%2C%20Charleston%20SC)
 
 ## Additional streets worth wandering
 
@@ -152,7 +166,7 @@ The value of downtown walking extends beyond individual businesses. **King Stree
 - **Weather:** a trip-specific forecast is not available this far ahead. Pack comfortable walking shoes, a light layer and rain protection, then check the forecast in the week before travel. Waterfront wind can make an evening feel cooler than the streets inland.
 - **Rest breaks:** Marion Square, Waterfront Park and White Point Garden are useful pauses. Buy water before the long southern loop. The city provides public restroom information, including downtown garages, parks and buildings; availability varies by location and opening time. [City visitor information](https://www.charleston-sc.gov/3427/Visitors)
 - **For a tired return:** a ride back is reasonable even if you walked out. Check the current [CARTA/DASH information](https://www.ridecarta.com/) if you want a transit backup; this guide does not assume a particular route or stop remains unchanged.
-- **Rain substitutions:** swap a long park loop for Gibbes, Charleston Museum, IAAM, the Aquarium, a performance or a booked workshop. Museums have different last-admission times; do not wait until late afternoon to choose.
+- **Rain substitutions:** swap a long park loop for Gibbes, Charleston Museum, IAAM, the Aquarium, Halsey Institute, Escape in 60, a performance or a booked workshop. Museums have different last-admission times; do not wait until late afternoon to choose.
 - **Groups and dietary needs:** restaurant capacity and menus vary. Small venues such as FIG, Chez Nous and Chubby Fish need more planning than a quick café. Read the current menu and contact the venue for specific allergy or access arrangements.
 - **Free versus ticketed:** streets, exterior architecture, parks and ordinary browsing are largely free. Museum interiors, house tours, performances, workshops, boats and organized walks are separate purchases. Food, drinks and shopping are additional.
 
@@ -234,6 +248,17 @@ Italian food and pasta, with a pleasant setting just off King. A good change of 
 
 [Source / current details](https://www.lefarfallecharleston.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Le%20Farfalle%2C%2015%20Beaufain%20Street%2C%20Charleston%20SC&travelmode=walking)
 
+### 111. 167 Sushi Bar
+
+**289 East Bay Street, Charleston, SC** · **6–10 min walk** · about **0.31 miles one way**  
+**Budget:** $$$–$$$$ · **Allow at the stop:** 60–100 min
+
+An intimate sushi and izakaya restaurant from the 167 group, centered on nigiri, sashimi, rolls and seafood-driven small plates.
+
+**Plan:** Reservations and walk-ins are offered. Published Mon–Wed noon–10pm, Thu–Sat noon–10:30pm and closed Sunday.
+
+[Source / current details](https://www.167sushibar.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=167%20Sushi%20Bar%2C%20289%20East%20Bay%20Street%2C%20Charleston%20SC&travelmode=walking)
+
 ### 04. Hank's Seafood Restaurant
 
 **10 Hayne Street, Charleston, SC** · **6–11 min walk** · about **0.34 miles one way**  
@@ -288,6 +313,17 @@ Oysters, raw-bar dishes and seafood in a historic house; convenient before a Gai
 **Plan:** Reservations recommended. Published service includes dinner daily and lunch Friday–Sunday; verify the trip-week schedule.
 
 [Source / current details](https://mail.delaneyoysterhouse.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Delaney%20Oyster%20House%2C%20115%20Calhoun%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 112. Shiki
+
+**334 East Bay Street, Charleston, SC** · **8–12 min walk** · about **0.41 miles one way**  
+**Budget:** $$–$$$ · **Allow at the stop:** 60–100 min
+
+A long-running, family-operated downtown sushi bar with a quieter, more traditional feel than the Upper King nightlife restaurants.
+
+**Plan:** Published Tue–Sat 11:30am–2:30pm and 5–10pm; closed Sunday and Monday. Reserve for dinner.
+
+[Source / current details](https://www.shikicharleston.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Shiki%2C%20334%20East%20Bay%20Street%2C%20Charleston%20SC&travelmode=walking)
 
 ### 09. Poogan's Porch
 
@@ -366,6 +402,17 @@ Greek cooking and shareable plates a short detour west of King Street.
 
 [Source / current details](https://stellascharleston.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Stella's%2C%20114%20Saint%20Philip%20Street%2C%20Charleston%20SC&travelmode=walking)
 
+### 109. Queology
+
+**6 North Market Street, Charleston, SC** · **11–16 min walk** · about **0.59 miles one way**  
+**Budget:** $–$$ · **Allow at the stop:** 45–90 min
+
+A casual City Market barbecue stop for pulled pork, brisket, ribs, smoked wings and Memphis, Kansas City and South Carolina mustard sauces.
+
+**Plan:** Published Sun–Thu 11am–10pm and Fri–Sat 11am–11pm. Convenient for an uncomplicated lunch or dinner.
+
+[Source / current details](https://queology.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Queology%2C%206%20North%20Market%20Street%2C%20Charleston%20SC&travelmode=walking)
+
 ### 12. Slightly North of Broad
 
 **192 East Bay Street, Charleston, SC** · **12–17 min walk** · about **0.62 miles one way**  
@@ -376,6 +423,28 @@ An established Lowcountry bistro on East Bay. Works well after the French Quarte
 **Plan:** Reserve for dinner; lunch offers a convenient way to fit it into sightseeing.
 
 [Source / current details](https://snobcharleston.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Slightly%20North%20of%20Broad%2C%20192%20East%20Bay%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 101. Sorelle
+
+**88 Broad Street, Charleston, SC** · **12–17 min walk** · about **0.62 miles one way**  
+**Budget:** $$$–$$$$ · **Allow at the stop:** 45–120 min
+
+A polished Southern Italian destination with two useful experiences: a casual daytime mercato and a refined dinner room serving handmade pasta, seafood and Italian wine.
+
+**Plan:** Mercato is published daily 7am–4pm; dinner daily 5–10pm. Dining-room reservations open 60 days ahead; the bar, lounge and mercato are first come.
+
+[Source / current details](https://www.sorellecharleston.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Sorelle%2C%2088%20Broad%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 108. Poogan's Smokehouse
+
+**188 East Bay Street, Charleston, SC** · **12–17 min walk** · about **0.63 miles one way**  
+**Budget:** $$–$$$ · **Allow at the stop:** 60–100 min
+
+A full-service French Quarter smokehouse built around slow-smoked barbecue, ribs, Southern sides and an extensive bourbon and whiskey selection.
+
+**Plan:** Published Sun–Thu 11am–9pm and Fri–Sat 11am–10pm. Reservations are available.
+
+[Source / current details](https://www.pooganssmokehouse.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Poogan's%20Smokehouse%2C%20188%20East%20Bay%20Street%2C%20Charleston%20SC&travelmode=walking)
 
 ### 16. The Darling Oyster Bar
 
@@ -432,6 +501,17 @@ Seasonal cooking with an emphasis on local produce, seafood and meat; a dinner d
 
 [Source / current details](https://guide.charlestonmag.com/dining/the-grocery/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=The%20Grocery%2C%204%20Cannon%20Street%2C%20Charleston%20SC&travelmode=walking)
 
+### 113. MESU
+
+**570 King Street, Charleston, SC** · **17–23 min walk** · about **0.86 miles one way**  
+**Budget:** $$–$$$ · **Allow at the stop:** 60–120 min
+
+A lively Upper King restaurant combining Mexican-inspired dishes, sushi rolls, sake, tequila and cocktails in a late-night setting.
+
+**Plan:** Published daily from 4pm; kitchen closes 10pm Sun–Thu and 11pm Fri–Sat, while the bar continues later. Reservations offered.
+
+[Source / current details](https://mesuchs.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=MESU%2C%20570%20King%20Street%2C%20Charleston%20SC&travelmode=walking)
+
 ### 20. Chez Nous
 
 **6 Payne Court, Charleston, SC** · **20–27 min walk** · about **1.03 miles one way**  
@@ -475,6 +555,17 @@ Fried chicken, oysters and a relaxed setting at the far end of a longer Upper Ki
 **Plan:** Published daily 11am–10pm. Reservations currently offered for groups of 6–12; smaller groups generally use walk-in seating. Longer-walk option.
 
 [Source / current details](https://leonsoystershop.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Leon's%20Oyster%20Shop%2C%20698%20King%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 110. Lewis Barbecue
+
+**464 North Nassau Street, Charleston, SC** · **41–52 min walk** · about **2.07 miles one way**  
+**Budget:** $$–$$$ · **Allow at the stop:** 60–120 min
+
+A destination for Central Texas-style barbecue, especially sliced-to-order prime brisket, with a large patio and counter service.
+
+**Plan:** This is outside the comfortable walking core; plan a rideshare or a roughly 40–55 minute walk each way. No reservations. Published daily from 11am.
+
+[Source / current details](https://www.lewisbarbecue.com/location/lewis-barbecue-charleston/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Lewis%20Barbecue%2C%20464%20North%20Nassau%20Street%2C%20Charleston%20SC&travelmode=walking)
 
 
 ## Coffee & treats
@@ -534,6 +625,39 @@ An ice-cream break just off King Street; easy to combine with shopping or Le Far
 
 [Source / current details](https://offtrackicecream.com/contact-us/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Off%20Track%20Ice%20Cream%2C%206%20Beaufain%20Street%2C%20Charleston%20SC&travelmode=walking)
 
+### 102. Second State Coffee
+
+**70.5 Beaufain Street, Charleston, SC** · **5–9 min walk** · about **0.27 miles one way**  
+**Budget:** $ · **Allow at the stop:** 20–45 min
+
+A specialty-coffee shop focused on locally roasted beans, pour-overs, cold brew, loose-leaf tea, seasonal drinks and house-made pastries.
+
+**Plan:** A strong choice when the coffee itself is the priority. Check the downtown location page for current service hours.
+
+[Source / current details](https://secondstatecoffee.com/pages/downtown-charleston) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Second%20State%20Coffee%2C%2070.5%20Beaufain%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 103. Babas on Wentworth
+
+**115 Wentworth Street, Charleston, SC** · **7–11 min walk** · about **0.37 miles one way**  
+**Budget:** $–$$ · **Allow at the stop:** 30–75 min
+
+A European-inspired all-day neighborhood café with espresso, pastries, banana bread, breakfast tacos, light meals, wine and cocktails.
+
+**Plan:** Published Tue–Thu 7am–8pm, Fri–Sat 7am–10pm and Sun 7am–6pm; closed Monday.
+
+[Source / current details](https://babascharleston.com/menu) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Babas%20on%20Wentworth%2C%20115%20Wentworth%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 104. Clerks
+
+**181 Church Street, Charleston, SC** · **7–12 min walk** · about **0.39 miles one way**  
+**Budget:** $–$$ · **Allow at the stop:** 30–60 min
+
+An airy café inside Emeline serving coffee, pastries, biscuits and a complete breakfast, brunch and lunch menu.
+
+**Plan:** Published daily 7am–4pm. Its central location makes it easy to combine with the City Market.
+
+[Source / current details](https://hotelemeline.com/clerks-coffee-company) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Clerks%2C%20181%20Church%20Street%2C%20Charleston%20SC&travelmode=walking)
+
 ### 33. La Pâtisserie at Hotel Bennett
 
 **404 King Street, Charleston, SC** · **8–12 min walk** · about **0.42 miles one way**  
@@ -589,6 +713,17 @@ Scratch-baked pastries, coffee, breakfast and lunch in the French Quarter area.
 
 [Source / current details](https://www.harkencafe.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Harken%20Caf%C3%A9%20%26%20Bakery%2C%2062%20Queen%20Street%2C%20Charleston%20SC&travelmode=walking)
 
+### 105. Sweet Palm Coffee
+
+**471 King Street, Charleston, SC** · **11–16 min walk** · about **0.58 miles one way**  
+**Budget:** $–$$ · **Allow at the stop:** 20–60 min
+
+A King Street café for espresso, specialty lattes, matcha and made-to-order breakfast and lunch items.
+
+**Plan:** Published as open daily for breakfast and lunch. Useful during an Upper King shopping walk.
+
+[Source / current details](https://eatsweetpalm.com/about) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Sweet%20Palm%20Coffee%2C%20471%20King%20Street%2C%20Charleston%20SC&travelmode=walking)
+
 ### 30. Carmella's Café & Dessert Bar
 
 **198 East Bay Street, Charleston, SC** · **12–17 min walk** · about **0.60 miles one way**  
@@ -621,6 +756,39 @@ A sunlit waterfront café beside The Cooper Marina, serving coffee and breakfast
 **Plan:** Published breakfast hours are 7–11am and lunch is 11am–4pm. Confirm whether evening wine service has begun before planning a later visit.
 
 [Source / current details](https://www.thecooper.com/dining/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Cooper%20Coffee%20%26%20Wine%2C%20176%20Concord%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 107. Babas on Cannon
+
+**11 Cannon Street, Charleston, SC** · **17–23 min walk** · about **0.86 miles one way**  
+**Budget:** $–$$ · **Allow at the stop:** 30–75 min
+
+The intimate original Babas café, serving espresso, pastries, light food and aperitivo-style drinks in Cannonborough.
+
+**Plan:** Published Tue–Thu 7am–8pm, Fri–Sat 7am–10pm and Sun 7am–6pm; closed Monday. Seating is limited.
+
+[Source / current details](https://babascharleston.com/menu) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Babas%20on%20Cannon%2C%2011%20Cannon%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 100. Holey City Bagels
+
+**43 Cannon Street, Charleston, SC** · **18–25 min walk** · about **0.94 miles one way**  
+**Budget:** $ · **Allow at the stop:** 20–45 min
+
+A downtown bagel shop and coffee bar serving hand-rolled, water-boiled bagels, breakfast sandwiches, spreads and espresso drinks.
+
+**Plan:** Published hours are 7am–1pm and the shop is closed Tuesday. Ordering ahead can help on a busy morning.
+
+[Source / current details](https://holeycitybagels.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Holey%20City%20Bagels%2C%2043%20Cannon%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 106. Island Provisions — Downtown
+
+**221 Saint Philip Street, Charleston, SC** · **20–26 min walk** · about **1.01 miles one way**  
+**Budget:** $–$$ · **Allow at the stop:** 30–75 min
+
+An all-day neighborhood café and small market offering coffee, smoothies, breakfast, lunch, grab-and-go food, wine and beer.
+
+**Plan:** Open seven days; published opening is 7am weekdays and 8am weekends. Check the downtown menu and closing time.
+
+[Source / current details](https://www.islandprovisions.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Island%20Provisions%20%E2%80%94%20Downtown%2C%20221%20Saint%20Philip%20Street%2C%20Charleston%20SC&travelmode=walking)
 
 ### 95. Mercantile & Mash
 
@@ -770,6 +938,17 @@ Historic market sheds with crafts, gifts and sweetgrass baskets. Walk the length
 **Plan:** Day market opens 9:30; the site gives conflicting 5/5:30 closing times, so plan before 5. Friday/Saturday night market is separately advertised.
 
 [Source / current details](https://www.thecharlestoncitymarket.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Charleston%20City%20Market%2C%20188%20Meeting%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 114. Halsey Institute of Contemporary Art
+
+**161 Calhoun Street, Charleston, SC** · **7–11 min walk** · about **0.35 miles one way**  
+**Budget:** Free · **Allow at the stop:** 45–90 min
+
+A free, non-collecting contemporary-art institute at the College of Charleston presenting rotating exhibitions and public programs.
+
+**Plan:** During exhibitions, published hours are Mon–Sat 11am–4pm and Thursday until 7pm; closed Sunday. Confirm what is on view.
+
+[Source / current details](https://halsey.charleston.edu/visit/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Halsey%20Institute%20of%20Contemporary%20Art%2C%20161%20Calhoun%20Street%2C%20Charleston%20SC&travelmode=walking)
 
 ### 61. Circular Congregational Church
 
@@ -1016,6 +1195,17 @@ An attractive oak-shaded campus space with historic architecture, very close to 
 
 [Source / current details](https://calendar.charleston.edu/cistern-yard) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=College%20of%20Charleston%20%E2%80%94%20Cistern%20Yard%2C%2066%20George%20Street%2C%20Charleston%20SC&travelmode=walking)
 
+### 119. Wragg Square
+
+**342 Meeting Street, Charleston, SC** · **7–12 min walk** · about **0.40 miles one way**  
+**Budget:** Free · **Allow at the stop:** 15–40 min
+
+A small shaded historic square between Meeting and Charlotte Streets, convenient to the Charleston Museum, Joseph Manigault House and Aiken-Rhett House.
+
+**Plan:** Best treated as a quiet rest stop or part of the northern museum loop rather than a destination requiring a long visit.
+
+[Source / current details](https://www.charleston-sc.gov/Archive/ViewFile/Item/203) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Wragg%20Square%2C%20342%20Meeting%20Street%2C%20Charleston%20SC&travelmode=walking)
+
 ### 62. Washington Square
 
 **80 Broad Street, Charleston, SC** · **11–17 min walk** · about **0.60 miles one way**  
@@ -1027,6 +1217,28 @@ A small green pause behind City Hall, convenient between Meeting Street museums 
 
 [Source / current details](https://www.charlestonsmuseummile.org/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Washington%20Square%2C%2080%20Broad%20Street%2C%20Charleston%20SC&travelmode=walking)
 
+### 118. Gadsdenboro Park
+
+**309 Concord Street, Charleston, SC** · **12–17 min walk** · about **0.60 miles one way**  
+**Budget:** Free · **Allow at the stop:** 30–75 min
+
+A large waterfront-area green space with a walking path, nautical playground, bocce court, game tables, sports fields and public restrooms.
+
+**Plan:** A useful outdoor pause before or after the Aquarium, IAAM, Liberty Square or a harbor departure.
+
+[Source / current details](https://www.charleston-sc.gov/Facilities/Facility/Details/Gadsdenboro-FieldsConcord-Park-36) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Gadsdenboro%20Park%2C%20309%20Concord%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 121. Vangie Rainsford Park
+
+**50 Chapel Street, Charleston, SC** · **12–17 min walk** · about **0.63 miles one way**  
+**Budget:** Free · **Allow at the stop:** 15–35 min
+
+A small neighborhood pocket park with benches and a water feature, also known as Chapel Street Fountain Park.
+
+**Plan:** A pleasant short detour while exploring Wraggborough; it is less substantial than the major waterfront parks.
+
+[Source / current details](https://www.charleston-sc.gov/Facilities/Facility/Details/Chapel-Street-Fountain-Park-91) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Vangie%20Rainsford%20Park%2C%2050%20Chapel%20Street%2C%20Charleston%20SC&travelmode=walking)
+
 ### 54. Waterfront Park / Pineapple Fountain
 
 **1 Vendue Range, Charleston, SC** · **15–21 min walk** · about **0.77 miles one way**  
@@ -1037,6 +1249,17 @@ Harbor views, the famous Pineapple Fountain and a pleasant place to sit between 
 **Plan:** Map pin marks the Vendue Range approach, not the fountain's exact position. Continue south through the park to the fountain.
 
 [Source / current details](https://www.charlestoncvb.com/plan-your-trip/tours-attractions~204/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Waterfront%20Park%20%2F%20Pineapple%20Fountain%2C%201%20Vendue%20Range%2C%20Charleston%20SC&travelmode=walking)
+
+### 120. Cannon Park
+
+**131 Rutledge Avenue, Charleston, SC** · **16–21 min walk** · about **0.80 miles one way**  
+**Budget:** Free · **Allow at the stop:** 20–60 min
+
+A neighborhood lawn and playground known for the remaining columns of the former Charleston Museum building.
+
+**Plan:** Combine it with Cannonborough, the Medical University area or a walk toward Colonial Lake.
+
+[Source / current details](https://www.charleston-sc.gov/Facilities/Facility/Details/Cannon-Park-90) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Cannon%20Park%2C%20131%20Rutledge%20Avenue%2C%20Charleston%20SC&travelmode=walking)
 
 ### 55. Rainbow Row
 
@@ -1187,6 +1410,17 @@ Major performing-arts venue close to your lodging. Your dates include orchestral
 
 [Source / current details](https://gaillardcenter.org/buy-tickets/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Charleston%20Gaillard%20Center%2C%2095%20Calhoun%20Street%2C%20Charleston%20SC&travelmode=walking)
 
+### 115. Escape in 60
+
+**45 South Market Street, Charleston, SC** · **9–14 min walk** · about **0.47 miles one way**  
+**Budget:** Ticketed · **Allow at the stop:** 60–90 min
+
+A downtown escape-room activity near the City Market, useful for a group evening or a rainy-day break from walking.
+
+**Plan:** Book a specific room and time in advance; review room difficulty, age guidance and group-size rules before purchase.
+
+[Source / current details](https://www.escape60.com/booknow.html) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Escape%20in%2060%2C%2045%20South%20Market%20Street%2C%20Charleston%20SC&travelmode=walking)
+
 ### 80. Charleston Music Hall
 
 **37 John Street, Charleston, SC** · **9–14 min walk** · about **0.48 miles one way**  
@@ -1197,6 +1431,17 @@ A downtown venue for music, comedy and other performances, near restaurants on U
 **Plan:** Check the live event calendar; the venue's presence does not guarantee a show on every night of your stay.
 
 [Source / current details](https://www.charlestonmusichall.com/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Charleston%20Music%20Hall%2C%2037%20John%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 117. Charleston Water Taxi — Maritime Center
+
+**10 Wharfside Street, Charleston, SC** · **11–16 min walk** · about **0.56 miles one way**  
+**Budget:** Ticketed · **Allow at the stop:** 45–120 min
+
+A practical harbor ride that also works as casual sightseeing, connecting downtown with Patriots Point and the Charleston Harbor Resort.
+
+**Plan:** Schedules can change for weather and special events. Confirm the operating day, last return and exact dock before boarding.
+
+[Source / current details](https://charlestonwatertaxi.com/schedule/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Charleston%20Water%20Taxi%20%E2%80%94%20Maritime%20Center%2C%2010%20Wharfside%20Street%2C%20Charleston%20SC&travelmode=walking)
 
 ### 77. Dock Street Theatre / Charleston Stage
 
@@ -1230,6 +1475,17 @@ A live-music venue near the visitor center, useful for an evening on the norther
 **Plan:** Check each show's age restriction and standing/seating format. Under-18 guests must attend with an adult under current venue policy.
 
 [Source / current details](https://musicfarm.com/faq/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Music%20Farm%2C%2032%20Ann%20Street%2C%20Charleston%20SC&travelmode=walking)
+
+### 116. Charleston Harbor Tours
+
+**360 Concord Street, Charleston, SC** · **15–20 min walk** · about **0.75 miles one way**  
+**Budget:** Ticketed · **Allow at the stop:** 90–120 min
+
+A narrated 90-minute harbor cruise with views of Fort Sumter, the Battery, Patriots Point and the Ravenel Bridge.
+
+**Plan:** Advance reservations are strongly suggested. The operator uses nearby waterfront docks; follow the exact boarding address and arrival instructions on the ticket.
+
+[Source / current details](https://charlestonharbortours.com/tours-cruises/daily-harbor-tours/) · [Walking directions from your Airbnb](https://www.google.com/maps/dir/?api=1&origin=80%20Society%20Street%2C%20Charleston%2C%20SC%2029401&destination=Charleston%20Harbor%20Tours%2C%20360%20Concord%20Street%2C%20Charleston%20SC&travelmode=walking)
 
 
 ## Practical
@@ -1305,9 +1561,11 @@ The ranges overlap at the boundaries. Groups use the upper end of each estimate 
 | 86 | CVS — George Street | 5–9 min | 0.26 |
 | 44 | Marion Square / Saturday farmers market | 5–9 min | 0.27 |
 | 45 | College of Charleston — Cistern Yard | 5–9 min | 0.27 |
+| 102 | Second State Coffee | 5–9 min | 0.27 |
 | 85 | Target — King Street | 5–9 min | 0.28 |
 | 08 | Le Farfalle | 5–9 min | 0.29 |
 | 43 | Charleston City Market | 5–9 min | 0.29 |
+| 111 | 167 Sushi Bar | 6–10 min | 0.31 |
 
 ### About 10–20 minutes
 
@@ -1317,11 +1575,16 @@ The ranges overlap at the boundaries. Groups use the upper end of each estimate 
 | 35 | Citrus Club | 6–11 min | 0.34 |
 | 36 | The Living Room at The Dewberry | 6–11 min | 0.34 |
 | 06 | Cru Café | 7–11 min | 0.35 |
+| 114 | Halsey Institute of Contemporary Art | 7–11 min | 0.35 |
 | 05 | 167 Raw Oyster Bar | 7–11 min | 0.36 |
 | 83 | Bulldog Tours — downtown office | 7–11 min | 0.36 |
 | 90 | Peninsula Grill — reopening to confirm | 7–11 min | 0.36 |
 | 03 | Delaney Oyster House | 7–11 min | 0.37 |
 | 84 | Harris Teeter — East Bay Trading Station | 7–11 min | 0.37 |
+| 103 | Babas on Wentworth | 7–11 min | 0.37 |
+| 104 | Clerks | 7–12 min | 0.39 |
+| 119 | Wragg Square | 7–12 min | 0.40 |
+| 112 | Shiki | 8–12 min | 0.41 |
 | 33 | La Pâtisserie at Hotel Bennett | 8–12 min | 0.42 |
 | 37 | Camellias | 8–12 min | 0.42 |
 | 38 | Fiat Lux | 8–12 min | 0.42 |
@@ -1335,6 +1598,7 @@ The ranges overlap at the boundaries. Groups use the upper end of each estimate 
 | 72 | Blue Bicycle Books | 9–13 min | 0.46 |
 | 32 | Bitty & Beau's Coffee | 9–14 min | 0.47 |
 | 75 | Preservation Society Shop | 9–14 min | 0.47 |
+| 115 | Escape in 60 | 9–14 min | 0.47 |
 | 29 | Millers All Day | 9–14 min | 0.48 |
 | 49 | Joseph Manigault House | 9–14 min | 0.48 |
 | 80 | Charleston Music Hall | 9–14 min | 0.48 |
@@ -1349,18 +1613,25 @@ The ranges overlap at the boundaries. Groups use the upper end of each estimate 
 | 14 | Halls Chophouse | 10–15 min | 0.52 |
 | 93 | South Carolina Historical Society Museum | 11–16 min | 0.55 |
 | 51 | International African American Museum | 11–16 min | 0.56 |
+| 117 | Charleston Water Taxi — Maritime Center | 11–16 min | 0.56 |
 | 18 | O-Ku | 11–16 min | 0.57 |
 | 19 | Stella's | 11–16 min | 0.57 |
 | 48 | The Charleston Museum | 11–16 min | 0.57 |
+| 105 | Sweet Palm Coffee | 11–16 min | 0.58 |
 | 59 | St. Philip's Church | 11–16 min | 0.59 |
 | 77 | Dock Street Theatre / Charleston Stage | 11–16 min | 0.59 |
 | 82 | Children's Museum of the Lowcountry | 11–17 min | 0.59 |
+| 109 | Queology | 11–16 min | 0.59 |
 | 30 | Carmella's Café & Dessert Bar | 12–17 min | 0.60 |
 | 62 | Washington Square | 11–17 min | 0.60 |
+| 118 | Gadsdenboro Park | 12–17 min | 0.60 |
 | 60 | St. Michael's Church | 12–17 min | 0.61 |
 | 12 | Slightly North of Broad | 12–17 min | 0.62 |
 | 81 | Music Farm | 12–17 min | 0.62 |
+| 101 | Sorelle | 12–17 min | 0.62 |
 | 28 | Callie's Hot Little Biscuit — King Street | 12–17 min | 0.63 |
+| 108 | Poogan's Smokehouse | 12–17 min | 0.63 |
+| 121 | Vangie Rainsford Park | 12–17 min | 0.63 |
 | 40 | The Gin Joint | 13–18 min | 0.65 |
 | 53 | Liberty Square / Fort Sumter Visitor Center | 13–18 min | 0.66 |
 | 69 | Cathedral of St. John the Baptist | 13–18 min | 0.66 |
@@ -1373,6 +1644,7 @@ The ranges overlap at the boundaries. Groups use the upper end of each estimate 
 | 98 | Vintage Lounge | 14–20 min | 0.74 |
 | 39 | The Rooftop at The Vendue | 15–20 min | 0.75 |
 | 63 | Nathaniel Russell House | 14–20 min | 0.75 |
+| 116 | Charleston Harbor Tours | 15–20 min | 0.75 |
 | 17 | Indaco | 15–20 min | 0.76 |
 
 ### About 20–30 minutes
@@ -1382,12 +1654,17 @@ The ranges overlap at the boundaries. Groups use the upper end of each estimate 
 | 54 | Waterfront Park / Pineapple Fountain | 15–21 min | 0.77 |
 | 64 | Heyward-Washington House | 15–21 min | 0.78 |
 | 70 | Charleston City Gallery | 16–21 min | 0.80 |
+| 120 | Cannon Park | 16–21 min | 0.80 |
 | 15 | The Ordinary | 16–22 min | 0.81 |
 | 57 | Old Exchange & Provost Dungeon | 16–22 min | 0.81 |
 | 96 | The Grocery | 16–22 min | 0.82 |
+| 107 | Babas on Cannon | 17–23 min | 0.86 |
+| 113 | MESU | 17–23 min | 0.86 |
 | 52 | South Carolina Aquarium | 18–24 min | 0.91 |
 | 55 | Rainbow Row | 18–24 min | 0.91 |
+| 100 | Holey City Bagels | 18–25 min | 0.94 |
 | 68 | Colonial Lake | 19–26 min | 0.98 |
+| 106 | Island Provisions — Downtown | 20–26 min | 1.01 |
 | 20 | Chez Nous | 20–27 min | 1.03 |
 | 65 | Edmondston-Alston House | 20–27 min | 1.04 |
 | 67 | White Point Garden | 20–27 min | 1.04 |
@@ -1401,6 +1678,7 @@ The ranges overlap at the boundaries. Groups use the upper end of each estimate 
 |---|---|---|---|
 | 22 | Xiao Bao Biscuit | 24–32 min | 1.24 |
 | 23 | Leon's Oyster Shop | 27–35 min | 1.36 |
+| 110 | Lewis Barbecue | 41–52 min | 2.07 |
 
 ## Sources, map accuracy and last check
 

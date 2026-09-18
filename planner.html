@@ -69,6 +69,9 @@ function endDrag(e,cancel=false){if(!drag||drag.pointer!==e.pointerId)return;con
 $('sections').addEventListener('pointerup',e=>endDrag(e));$('sections').addEventListener('pointercancel',e=>endDrag(e,true));$('sections').addEventListener('lostpointercapture',e=>endDrag(e,true));
 window.addEventListener('storage',e=>{if(e.key!==KEY)return;try{plan=e.newValue?validate(JSON.parse(e.newValue)):fresh();blocked=false;render();message('Plan refreshed from another tab on this device.');}catch{message('Another tab saved unreadable data. Export your current work before reloading.',true);blocked=true;}});
 for(const category of [...new Set(places.map(p=>p.category))]){const option=document.createElement('option');option.value=category;option.textContent=category;$('category').append(option);}render();
+// A map link selects a place but never changes a saved plan without an Add click.
+const requestedPlace=byId.get(new URLSearchParams(location.search).get('add'));
+if(requestedPlace){$('search').value=requestedPlace.name;renderResults();message('Choose a day tab and Morning, Afternoon, or Evening under Add to, then add '+requestedPlace.name+'.');$('search').focus({preventScroll:true});}
 })();
 </script>
 </body></html>

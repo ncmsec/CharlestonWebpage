@@ -41,6 +41,7 @@ Replace conflicting website records for @ or www; preserve unrelated email MX/TX
 - **guide.html** — readable guide with jump links and mobile table scrolling.
 - **charleston-walking-guide.md** — complete original Markdown guide.
 - **charleston-places.csv** — place list with coordinates and links.
+- **planner.html** — five-day planner with private browser autosave, touch and keyboard ordering, notes, reservation status, print, copy, and JSON backup/import. Plans are not uploaded; export a backup to transfer devices. Clearing browser data can remove the saved plan.
 - **CNAME** — chosen domain.
 - **.nojekyll** — publishes the files directly.
 
